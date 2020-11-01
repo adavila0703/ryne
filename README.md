@@ -8,7 +8,7 @@
 
 # Contributions
 
-#### Here is a list my contributed to Ryne.
+#### Here is a list my contributions to Ryne.
 
 * Lead programming
 * Back end programming
