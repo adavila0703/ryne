@@ -1,6 +1,6 @@
 # Ryne
 
-> Ryne is a spell casting, high speed, competitive, arena style shooter that is being devleoped by a friend an I. Inspired by a video game called Spellbreak, Ryne was built on UE4 and written in C++.
+> Ryne is a spell casting, high speed, competitive, arena style shooter that is being developed by a friend an I. Inspired by a video game called Spellbreak, Ryne was built on UE4 and written in C++.
 
 # Gameplay Showcase
 
